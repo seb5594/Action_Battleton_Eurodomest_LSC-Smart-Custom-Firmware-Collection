@@ -89,7 +89,7 @@ off by default.
 
 Find your device by the chip on its board: the module name tells it (CB... = BK7231N, WB... = BK7231T, T1... = BK7238).
 
-[BK7231T](bk7231t/README.md) (19) · [BK7231N](bk7231n/README.md) (27) · [BK7238](bk7238/README.md) (10) · [RTL8710BN](rtl8710bn/README.md) (1) · [LN882H](ln882h/README.md) (1)
+[BK7231T](bk7231t/README.md) (19) · [BK7231N](bk7231n/README.md) (27) · [BK7238](bk7238/README.md) (11) · [RTL8710BN](rtl8710bn/README.md) (1) · [LN882H](ln882h/README.md) (1)
 
 **Released** and **Sold until**: dates where known, otherwise estimates marked `~` (the nearest article numbers; see the main repository).
 
@@ -151,6 +151,7 @@ Every file is an attachment of its release, so every download is counted by GitH
 | 3219270 | LSC Smart Connect LED Strip (20 m) | BK7231N | ~2025 | on sale | [`3219270-lsc-smart-connect-led-strip-20-m`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/tag/3219270-lsc-smart-connect-led-strip-20-m) |
 | 3221699 | LSC Smart Connect Floor Lamp | BK7238 | ~2025 | on sale | [`3221699-lsc-smart-connect-floor-lamp`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/tag/3221699-lsc-smart-connect-floor-lamp) |
 | 3224757 | LSC Smart Connect Ceiling Skyscape Light | BK7238 | 2026-05 | on sale | [`3224757-lsc-smart-connect-ceiling-skyscape-light`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/tag/3224757-lsc-smart-connect-ceiling-skyscape-light) |
+| 3225182 | LSC Smart Connect Aurora Desk Lamp | BK7238 | ~2026 | on sale | [`3225182-lsc-smart-connect-aurora-desk-lamp`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/tag/3225182-lsc-smart-connect-aurora-desk-lamp) |
 | 3225458 | LSC Smart Connect Decorative Table Lamp | BK7238 | ~2026 | on sale | [`3225458-lsc-smart-connect-decorative-table-lamp`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/tag/3225458-lsc-smart-connect-decorative-table-lamp) |
 | 3225765 | Eurodomest HDMI Sync Box (2nd generation) | BK7238 | ~2026 | on sale | [`3225765-eurodomest-hdmi-sync-box-2nd-generation`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/tag/3225765-eurodomest-hdmi-sync-box-2nd-generation) |
 | 3225769 | LSC Smart Connect Wall Washer Light | BK7238 | ~2026 | on sale | [`3225769-lsc-smart-connect-wall-washer-light`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/tag/3225769-lsc-smart-connect-wall-washer-light) |
