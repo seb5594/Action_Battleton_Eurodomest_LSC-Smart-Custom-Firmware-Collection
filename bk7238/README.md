@@ -12,6 +12,7 @@ UART with ltchiptool or bk7231tools always works. Over the air only from a devic
 | 3207853 | LSC Smart Connect Convector Heater 2000 W | 2026 | on sale | 2.0.3.2 |
 | 3221699 | LSC Smart Connect Floor Lamp | ~2025 | on sale | 2.0.3.2 |
 | 3224757 | LSC Smart Connect Ceiling Skyscape Light | 2026-05 | on sale | 2.0.3.10 |
+| 3225182 | LSC Smart Connect Aurora Desk Lamp | ~2026 | on sale | 2.0.3.1 |
 | 3225458 | LSC Smart Connect Decorative Table Lamp | ~2026 | on sale | 2.0.3.2 |
 | 3225765 | Eurodomest HDMI Sync Box (2nd generation) | ~2026 | on sale | 2.0.3.2 |
 | 3225769 | LSC Smart Connect Wall Washer Light | ~2026 | on sale | 2.0.3.2 |
@@ -98,6 +99,20 @@ UART with ltchiptool or bk7231tools always works. Over the air only from a devic
 | Cloudcutter OTA | [`bk7238-3224757-action-lsc-smart-connect-ceiling-skyscape-light-esphome-firmware-2.0.3.10-by-seb5594.tuya-cloudcutter-ota.ug.bin`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/download/3224757-lsc-smart-connect-ceiling-skyscape-light/bk7238-3224757-action-lsc-smart-connect-ceiling-skyscape-light-esphome-firmware-2.0.3.10-by-seb5594.tuya-cloudcutter-ota.ug.bin) | tuya-cloudcutter, device with the original Tuya firmware |
 
 [`3224757-lsc-smart-connect-ceiling-skyscape-light`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/tag/3224757-lsc-smart-connect-ceiling-skyscape-light)
+
+</details>
+
+<details>
+<summary><b>3225182</b> - LSC Smart Connect Aurora Desk Lamp (version 2.0.3.1)</summary>
+
+| Format | File | Tool |
+|---|---|---|
+| ESPHome update (UF2) | [`bk7238-3225182-action-lsc-smart-connect-aurora-desk-lamp-esphome-firmware-2.0.3.1-by-seb5594.esphome-ota.uf2`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/download/3225182-lsc-smart-connect-aurora-desk-lamp/bk7238-3225182-action-lsc-smart-connect-aurora-desk-lamp-esphome-firmware-2.0.3.1-by-seb5594.esphome-ota.uf2) | ltchiptool over UART, or the web page of a device that runs ESPHome |
+| App partition at 0x11000 | [`bk7238-3225182-action-lsc-smart-connect-aurora-desk-lamp-esphome-firmware-2.0.3.1-by-seb5594.app-partition-0x11000.bin`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/download/3225182-lsc-smart-connect-aurora-desk-lamp/bk7238-3225182-action-lsc-smart-connect-aurora-desk-lamp-esphome-firmware-2.0.3.1-by-seb5594.app-partition-0x11000.bin) | bk7231tools or ltchiptool over UART |
+| OpenBeken OTA | [`bk7238-3225182-action-lsc-smart-connect-aurora-desk-lamp-esphome-firmware-2.0.3.1-by-seb5594.openbeken-ota.rbl`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/download/3225182-lsc-smart-connect-aurora-desk-lamp/bk7238-3225182-action-lsc-smart-connect-aurora-desk-lamp-esphome-firmware-2.0.3.1-by-seb5594.openbeken-ota.rbl) | OTA page of OpenBeken |
+| Cloudcutter OTA | [`bk7238-3225182-action-lsc-smart-connect-aurora-desk-lamp-esphome-firmware-2.0.3.1-by-seb5594.tuya-cloudcutter-ota.ug.bin`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/download/3225182-lsc-smart-connect-aurora-desk-lamp/bk7238-3225182-action-lsc-smart-connect-aurora-desk-lamp-esphome-firmware-2.0.3.1-by-seb5594.tuya-cloudcutter-ota.ug.bin) | tuya-cloudcutter, device with the original Tuya firmware |
+
+[`3225182-lsc-smart-connect-aurora-desk-lamp`](https://github.com/seb5594/Action_Battleton_Eurodomest_LSC-Smart-Custom-Firmware-Collection/releases/tag/3225182-lsc-smart-connect-aurora-desk-lamp)
 
 </details>
 
